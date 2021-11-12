@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class hello {
+public class hello {
+    public static void main(String[] args) {
+        System.out.println("Hello worlds");
+        System.out.println("This is file is modified");
+    }
 }
